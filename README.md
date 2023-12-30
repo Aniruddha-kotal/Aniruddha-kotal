@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/aniruddha_kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="aniruddha_kotal" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/aniruddha-kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="aniruddha-kotal" height="40" width="40" /></a>
-<a href="https://fb.com/aniruddha kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png" alt="aniruddha kotal" height="40" width="40" /></a>
+<a href="https://www.facebook.com/aniruddha.kotal.7/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png" alt="aniruddha kotal" height="40" width="40" /></a>
 <a href="https://instagram.com/the-xoy" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="the-xoy" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/aniruddhakotal0203" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="aniruddhakotal0203" height="40" width="40" /></a>
 </p>
