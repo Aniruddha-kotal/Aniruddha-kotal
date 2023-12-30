@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Kotal</h1>
 <h3 align="center">I am an experienced software engineer with a keen interest in backend development. With approximately 2 years of hands-on experience, I am continuously expanding my skill set and knowledge to stay at the forefront of industry trends.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddha-kotal&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddha-kotal" /> </p>
 
@@ -15,13 +15,13 @@
 
 - ⚡ Fun fact **I am funny, so I always act as a stressbuster for my co-workers**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/aniruddha_kotal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniruddha_kotal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniruddha-kotal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniruddha-kotal" height="30" width="40" /></a>
-<a href="https://fb.com/aniruddha kotal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aniruddha kotal" height="30" width="40" /></a>
-<a href="https://instagram.com/the-xoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the-xoy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aniruddhakotal0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniruddhakotal0203" height="30" width="40" /></a>
+<a href="https://twitter.com/aniruddha_kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="aniruddha_kotal" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/aniruddha-kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" alt="aniruddha-kotal" height="40" width="40" /></a>
+<a href="https://fb.com/aniruddha kotal" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png" alt="aniruddha kotal" height="40" width="40" /></a>
+<a href="https://instagram.com/the-xoy" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png" alt="the-xoy" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/aniruddhakotal0203" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" alt="aniruddhakotal0203" height="40" width="40" /></a>
 </p>
 
 
